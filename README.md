@@ -1,1 +1,1 @@
-# Node-js-sample-application
+# Node-js-sample-application Lab
